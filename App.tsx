@@ -4,7 +4,8 @@
  * @flow
  */
 
-import React, { Component } from 'react';
+import * as React from 'react';
+const Component = React.Component;
 import {
   Platform,
   StyleSheet,
